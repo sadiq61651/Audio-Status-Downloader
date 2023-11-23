@@ -6,7 +6,7 @@ Audio Status Downloader, developed by M. Sadiq, may collect non-personal informa
 
 2. Purpose of Data Collection
 
-The primary purpose of collecting and processing status data is to allow users to download audio, video, and photo statuses from WhatsApp. The app integrates Google AdMob for displaying ads. AdMob, as the advertising service, may collect and process certain ad-related information for the purpose of serving targeted ads. This data may be stored by AdMob in accordance with its privacy policy, which can be reviewed here.
+The primary purpose of collecting and processing status data is to allow users to download audio, video, and photo statuses from WhatsApp. The app integrates Google AdMob for displaying ads. AdMob, as the advertising service, may collect and process certain ad-related information for the purpose of serving targeted ads. This data may be stored by AdMob in accordance with its privacy policy, which can be reviewed [here](https://policies.google.com/privacy).
 
 3. Data Storage
 
